@@ -1,0 +1,6 @@
+{
+  "name": "MtaaTok",
+  "description": "Production-style short-video social platform featuring native video playback, filters, audio sync, creator studio monetization, live streams, and interactive engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

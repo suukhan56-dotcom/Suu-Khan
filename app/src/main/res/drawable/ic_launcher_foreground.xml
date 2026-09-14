@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cyan Shadow / Glitch Accent -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M31,34 L31,74 L39,74 L39,49 L49,63 L57,63 L67,49 L67,74 L75,74 L75,34 L65,34 L53,52 L41,34 Z" />
+    <!-- Orange / Warm Main M Glyph shifted 2dp for chromatic pulse effect -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M33,32 L33,72 L41,72 L41,47 L51,61 L59,61 L69,47 L69,72 L77,72 L77,32 L67,32 L55,50 L43,32 Z" />
+    <!-- White Accent Core Play Triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,46 L60,52 L51,58 Z" />
+</vector>
